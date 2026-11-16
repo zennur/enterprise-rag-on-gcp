@@ -1,0 +1,8 @@
+{"question": "Who gets paged for a sev1 incident after the pager is acknowledged?", "expected_document_ids": ["oncall"], "should_abstain": false}
+{"question": "How many days are in the vacationaccrual for full-time staff?", "expected_document_ids": ["pto"], "should_abstain": false}
+{"question": "How long is application logretention?", "expected_document_ids": ["retention"], "should_abstain": false}
+{"question": "When is a sev3 minor defect scheduled?", "expected_document_ids": ["severity"], "should_abstain": false}
+{"question": "What is the mealcap in dollars per person?", "expected_document_ids": ["expenses"], "should_abstain": false}
+{"question": "When does securityreview complete an accessrequest?", "expected_document_ids": ["access"], "should_abstain": false}
+{"question": "What sourdough hydration does the company bakery use?", "expected_document_ids": [], "should_abstain": true}
+{"question": "Who won the office table tennis tournament?", "expected_document_ids": [], "should_abstain": true}
